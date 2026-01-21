@@ -21,3 +21,7 @@ Manage books, members, and library transactions like issuing and returning books
    ```bash
    pip install mysql-connector-python
    pip install pillow
+
+## 📸 Screenshot
+
+![Library Management GUI](screenshot.png/Screenshot%202026-01-21%20124439.png)
